@@ -13,16 +13,18 @@
 
 ## Lori's Cloud Journey
 
-I started studying for the AWS Certified Cloud Architect - Associate certificate and decided to keep track of my journey and be more consistent.
+I started studying for the AWS Certified Cloud Architect - Associate certificate and decided to keep track of my journey and be more consistent.  
+I'm also choosing to spice things up and do most of the labs with IAC tools like Ansible and Terraform.  
+I'm already familiar with AWS so most of the labs for this certificate aren't really that challenging but I've never configured AWS with IAC tools so it's a nice practice.
 
-I want have obtained the AWS Certified Cloud Architect - Associate certificate but because of COVID-19 I'm not really sure if it will possible as I'd like to take the exam at a testing center.  
+I want to have obtained the AWS Certified Cloud Architect - Associate certificate but because of COVID-19 I'm not really sure if it will possible as I'd like to take the exam at a testing center.  
 So my goal is either that or continue studying for other AWS certificates.
 
 [Twitter](https://twitter.com/LoriKarikari)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [](Journey/001/Readme.md)
+- [x] ☁️ 1 > [Kick Off 🎉](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
