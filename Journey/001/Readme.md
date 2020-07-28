@@ -13,7 +13,7 @@ Today I decided to repeat the content that I already had processed.
 
 ## Social Proof
 
-[Twitter](link)
+[Twitter](https://twitter.com/LoriKarikari/status/1288148694014078976)
 
 I'm also currently creating a blog to post my notes and tutorials on.  
 I'm planning to update the blog on a weekly basis but it can be more depending om my schedule.
