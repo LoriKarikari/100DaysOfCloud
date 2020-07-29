@@ -30,4 +30,4 @@ I probabaly forgot to write some stuff down but it will be more extensive once m
 
 ## Social Proof
 
-[Twitter](link)
+[Twitter](https://twitter.com/LoriKarikari/status/1288523518083244032)
